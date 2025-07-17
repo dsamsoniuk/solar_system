@@ -1,2 +1,3 @@
-# solar_system
-uklad sloneczny symulacja
+# uklad_sloneczny
+
+Symulacja układu slonecznego
